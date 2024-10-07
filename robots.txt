@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://leyazuhogimo.pages.dev/sitemap.xml
